@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Global.asax.cs](./CS/MvcGridView_example/Global.asax.cs) (VB: [Global.asax.vb](./VB/MvcGridView_example/Global.asax.vb))
+* [Index.cshtml](./CS/MvcGridView_example/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/MvcGridView_example/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # How to adjust DevExpress ASP.NET MVC extensions when opening page in IE Compatibility Mode
 
 
